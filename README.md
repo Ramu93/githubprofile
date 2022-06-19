@@ -19,7 +19,7 @@
 
  ## Who am I?
  ```js
-import FullStackDeveloper from 'ramuramasamy';
+import { FullStackDeveloper } from 'ramuramasamy';
 
 class Bio extends FullStackDeveloper {
   name     = 'Ramu Ramasamy';
