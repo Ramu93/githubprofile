@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="400"/>
 </p>
 
 <h3 align="center">Hi there, I am Ramu Ramasamy!
