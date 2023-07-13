@@ -29,7 +29,7 @@ class Bio extends FullStackDeveloper {
 }
 
 class Skills extends FullStackDeveloper {
-  languages  = ['JavaScript', 'TypeScript', 'Java', 'PHP', 'Python'];
+  languages  = ['JavaScript', 'TypeScript', 'Swift', 'Java', 'PHP', 'Python'];
   dataBases  = ['MongoDB', 'RDMS'];
   frameWorks = ['React', 'React Native', 'Node.js', 'Express', 'NestJS', 'NextJS', 'Fastify'];
 }
