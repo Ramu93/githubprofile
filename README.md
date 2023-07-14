@@ -26,6 +26,7 @@ class Bio extends FullStackDeveloper {
   title    = 'Fullstack Developer';
   company  = 'porta Group of Companies';
   location = 'Germany (Deutschland)';
+  education = 'Master of Science - Computer Science, Paderborn University, Germany';
 }
 
 class Skills extends FullStackDeveloper {
