@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif" height="400"/>
-</p>
+
 
 <h3 align="center">Hi there, I am Ramu Ramasamy!
 </h3>
